@@ -5,6 +5,7 @@
 
 #include <iostream>
 
+#include "qlogicae_core.hpp"
 #include "qlogicae_connect_4.hpp"
 
 #endif

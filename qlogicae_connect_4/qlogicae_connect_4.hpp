@@ -1,3 +1,6 @@
 #pragma once
 
-void fnqlogicaeconnect4();
+#include "utilities.hpp"
+#include "bitboard.hpp"
+#include "game_engine.hpp"
+
